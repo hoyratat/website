@@ -1,10 +1,10 @@
 ---
 items:
   - text: Menu One
-    url: "#"
+    url: "https://oooaaaooo.netlify.app/"
   - text: Menu Two
-    url: "#"
+    url: "https://oooaaaooo.netlify.app/"
   - text: Menu Three
-    url: "#"
+    url: "https://oooaaaooo.netlify.app/"
   - text: Blog
     url: "/blog"
